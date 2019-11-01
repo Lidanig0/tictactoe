@@ -1,2 +1,2 @@
 # tictactoe
-The real Tic Tac Toe for browser
+Tic Tac Toe for browser
